@@ -2,7 +2,7 @@
 
 Materials and problem sets for the course Machine Learning for Molecular Engineering taught at MIT.
 
-**Instructors**: Prof. Connor Coley and Prof. Rafael Gomez-Bombarelli 
+**Instructors**: Prof. Connor Coley, Prof. Rafael Gomez-Bombarelli, Prof. Ernest Fraenkel, Prof. Joey Davis
 
 **Course Numbers**: 3.C01/3.C51, 7.C01/7.C51, 10.C01/10.C51, 20.C01/20.C51
 

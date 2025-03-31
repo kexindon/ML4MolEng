@@ -16,23 +16,22 @@ These assignments are a work in progress and will change. Do not start working o
 
 Ungraded problem set (no submission) to practice using Google Colab and numpy.
 
-[**PS1**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps1/)
+[**PS1 (Perovskites)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps1-nonbio/)
+Two datasets: 
+Data size: ~10^2 and 10^3
 
-Data size: ~10^2
+Basic linear classification problem to get you started for the course. You will use logistic regression to diagnose cancer. You will apply linear methods with L1 and L2 regularization and understand what effects they have on your regression results. 
 
-Basic linear classification problem to get you started for the course. You will use logistic regression to diagnose cancer. You will apply linear methods with L1 and L2 regularization and understand what effects they have on your regression results. You also will experiment with hyperparameter optimization to tune your model with cross-validation.
+Then, you will apply a MLP regressor to predict properties of perovskites. You will compare differences between different representations of the chemical composition of a perovskite crystal
 
-[**PS2 (Perovskites)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-perov/) 
 
-Data size: ~10^3
+[**PS1 (MHC)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps1-bio/)
+Two datasets: 
+Data size: ~10^2 and 10^3
 
-You will apply a MLP regressor to predict properties of perovskites. You will compare differences between different representations of the chemical composition of a perovskite crystal. You will also use [hyperopt](https://github.com/hyperopt/hyperopt) to perform hyperparameter search for your MLP architecture.
+Basic linear classification problem to get you started for the course. You will use logistic regression to diagnose cancer. You will apply linear methods with L1 and L2 regularization and understand what effects they have on your regression results. 
 
-[**PS2 (MHC)**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-MHC/)
-
-Data size: ~10^3
-
-You will apply an MLP regressor to predict MHC binding to peptides. You will compare differences between different representations of the amino acid composition of a peptide. You will also use [hyperopt](https://github.com/hyperopt/hyperopt) to perform hyperparameter search for your MLP architecture.
+Then, you will apply an MLP regressor to predict MHC binding to peptides. You will compare differences between different representations of the amino acid composition of a peptide.
 
 [**PS3**](https://github.com/coleygroup/ML4MolEng/blob/main/psets/ps3/)
 

@@ -43,7 +43,7 @@ For this problem set, you will build a sequence-based model to predict DNA bindi
 Next, you will train a model to perform segmentation on images of bubbles (data size: ~10^2) arising from the surface of a catalyst, with the goal of using these insights to improve the design of catalysts.
 
 
-[**Cells (7.C01/7.C51, 20.C01/20.C51) **](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-bio/)
+[**Cells (7.C01/7.C51, 20.C01/20.C51)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-bio/)
 
 Next, you will train a model to perform segmentation on images of cells (data size: ~10^2), with the goal of using these insights to better understand cell morphology.
 

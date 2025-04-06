@@ -24,12 +24,12 @@ Ungraded problem set to practice using Google Colab and NumPy.
 
 Linear classification problem to get you started for the course. You will use logistic regression to diagnose cancer (data size: ~10^2), applying linear methods with L1 and L2 regularization and understand what effects they have on your regression results. 
 
-[**Perovskites  (3.C01/3.C51, 10.C01/10.C51)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps1-nonbio/)
+[**Perovskites (3.C01/3.C51, 10.C01/10.C51)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps1-nonbio/)
 
 You will then apply a MLP regressor to predict properties of perovskites (data size: ~10^3) and compare differences between representations of perovskite crystal chemical compositions.
 
 
-[**MHC  (7.C01/7.C51, 20.C01/20.C51)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps1-bio/)
+[**MHC (7.C01/7.C51, 20.C01/20.C51)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps1-bio/)
 
 You will then apply an MLP regressor to predict MHC binding to peptides (data size: ~10^3) and compare differences between representations of peptide amino acid sequences.
 
@@ -38,12 +38,12 @@ You will then apply an MLP regressor to predict MHC binding to peptides (data si
 
 For this problem set, you will build a sequence-based model to predict DNA binding sequences (data size: ~10^4) generated with ChIP-seq.
 
-[**Bubbles**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-nonbio/)
+[**Bubbles (3.C01/3.C51, 10.C01/10.C51)**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-nonbio/)
 
 Next, you will train a model to perform segmentation on images of bubbles (data size: ~10^2) arising from the surface of a catalyst, with the goal of using these insights to improve the design of catalysts.
 
 
-[**Cells**](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-bio/)
+[**Cells (7.C01/7.C51, 20.C01/20.C51) **](github.com/coleygroup/ML4MolEng/blob/main/psets/ps2-bio/)
 
 Next, you will train a model to perform segmentation on images of cells (data size: ~10^2), with the goal of using these insights to better understand cell morphology.
 
